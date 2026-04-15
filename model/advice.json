@@ -1,0 +1,87 @@
+{
+  "STN": {
+    "best_days_before": 68,
+    "avg_price_czk": 1442.0,
+    "holiday_premium_pct": 11.6
+  },
+  "BCN": {
+    "best_days_before": 36,
+    "avg_price_czk": 1928.0,
+    "holiday_premium_pct": 2.4
+  },
+  "CIA": {
+    "best_days_before": 118,
+    "avg_price_czk": 1402.0,
+    "holiday_premium_pct": -13.5
+  },
+  "BVA": {
+    "best_days_before": 118,
+    "avg_price_czk": 1292.0,
+    "holiday_premium_pct": 12.4
+  },
+  "MAD": {
+    "best_days_before": 2,
+    "avg_price_czk": 1983.0,
+    "holiday_premium_pct": 9.7
+  },
+  "PMI": {
+    "best_days_before": 40,
+    "avg_price_czk": 1813.0,
+    "holiday_premium_pct": 11.9
+  },
+  "AGP": {
+    "best_days_before": 10,
+    "avg_price_czk": 2012.0,
+    "holiday_premium_pct": 11.8
+  },
+  "DUB": {
+    "best_days_before": 32,
+    "avg_price_czk": 1723.0,
+    "holiday_premium_pct": 23.7
+  },
+  "SVQ": {
+    "best_days_before": 18,
+    "avg_price_czk": 1836.0,
+    "holiday_premium_pct": 18.2
+  },
+  "NAP": {
+    "best_days_before": 28,
+    "avg_price_czk": 1962.0,
+    "holiday_premium_pct": 13.0
+  },
+  "BRI": {
+    "best_days_before": 28,
+    "avg_price_czk": 1682.0,
+    "holiday_premium_pct": 18.3
+  },
+  "TSF": {
+    "best_days_before": 9,
+    "avg_price_czk": 1248.0,
+    "holiday_premium_pct": 2.2
+  },
+  "EIN": {
+    "best_days_before": 54,
+    "avg_price_czk": 1170.0,
+    "holiday_premium_pct": 4.0
+  },
+  "VIE": {
+    "best_days_before": 75,
+    "avg_price_czk": 455.0,
+    "holiday_premium_pct": -8.6
+  },
+  "BUD": {
+    "best_days_before": 60,
+    "avg_price_czk": 681.0,
+    "holiday_premium_pct": 0.8
+  },
+  "BTS": {
+    "best_days_before": 39,
+    "avg_price_czk": 490.0,
+    "holiday_premium_pct": 7.8
+  },
+  "MXP": {
+    "best_days_before": 51,
+    "avg_price_czk": 445.0,
+    "holiday_premium_pct": 16.2
+  }
+}
