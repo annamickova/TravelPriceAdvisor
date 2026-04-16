@@ -96,6 +96,7 @@ playwright install
 ---
 
 ## 2.6 How to Run
+## 2.6.1 Using PyCharm
 
 ### 1. Dowload project from GitHub and open in PyCharm
 ### 2. Run data collection
@@ -115,7 +116,74 @@ python scraper_holidays.py
 ```bash
 streamlit run app.py
 ```
+## 2.6.2 In terminal
+### Prerequisites
+Python 3.9 or higher installed on your system.
 
+Your project folder should contain: app.py, lib.py, requirements.txt, and the data/, model/ folders.
+
+### Windows
+### 1. Open Terminal: Navigate to your project folder in Command Prompt or PowerShell.
+### 2. Create Virtual Environment:
+```bash
+python -m venv venv
+```
+### 3. Activate Environment:
+```bash
+venv\Scripts\activate
+```
+### 4. Install Dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+### 5. Run Application:
+```bash
+streamlit run app.py
+```
+
+### MacOS
+### 1. Open Terminal: Navigate to your project folder.
+### 2. Create Virtual Environment:
+```bash
+python3 -m venv venv
+```
+### 3. Activate Environment:
+```bash
+venv\Scripts\activate
+```
+### 4. Install Dependencies:
+```bash
+pip install --upgrade pip
+pip install -r requirements.txt
+```
+
+### 5. Run Application:
+```bash
+python3 -m streamlit run app.py
+```
+
+### Linux (Ubuntu/Debian)
+### 1. Open Terminal: Navigate to your project folder.
+### 2. Update System & Install Venv:
+```bash
+sudo apt update
+sudo apt install python3-venv
+```
+### 3. Create & Activate Environment:
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+### 4. Install Dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+### 5. Run Application:
+```bash
+streamlit run app.py
+```
 ---
 
 ## 2.7 Machine Learning Pipeline
