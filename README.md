@@ -40,13 +40,12 @@ The system classifies prices into three categories:
 
 ### Requirements
 ```bash
-pip install pandas numpy scikit-learn xgboost streamlit plotly joblib requests schedule playwright
-playwright install
+pip install -r requirements.txt
 ```
 
 ---
 
-## 1.6 How to Run
+## 1.6 How to Run with new data
 ## 1.6.1 Using PyCharm
 
 ### 1. Dowload project from GitHub and open in PyCharm
